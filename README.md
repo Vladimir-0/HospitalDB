@@ -2,6 +2,8 @@
 
 Консольное приложение для работы с вымышленной PostgreSQL базой данных HospitalDB.
 
+![](https://i.ytimg.com/vi/HKo0MuF3REQ/maxresdefault.jpg)
+
 ## Установка необходимых библиотек
 
 ```commandline
